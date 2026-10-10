@@ -65,3 +65,10 @@ The reminder uses the calendar application's local time zone for the event time.
 ---
 
 This README was written by AI.
+
+--- 
+This is being or was used to help my dad who want a small help in remembering birthdays so i thought of using ai thats why 
+
+its fully ai gen but this msg is not but like i am lazy af so you know the drill.
+
+Next time i will do all by hand other than the publishing to the github bc i am lazy af
