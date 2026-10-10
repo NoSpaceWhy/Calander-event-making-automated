@@ -2,7 +2,7 @@
 
 Generate an `.ics` calendar file with yearly birthday and wedding-anniversary reminders.
 
-This project was made a few days ago with AI doing most of the building, plus a few brain cells of mine providing the ideas and direction.
+This project was made a few months ago with AI doing most of the building, plus a few brain cells of mine providing the ideas and direction.
 
 ## What it does
 
